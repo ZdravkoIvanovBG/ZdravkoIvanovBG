@@ -1,16 +1,93 @@
-<h1 align="center">Hi 👋, I'm Zdravko</h1>
-<h3 align="center">A passionate developer from Bulgaria</h3>
+# Project Setup Instructions
 
-- 🌱 I’m currently learning **Django, Python**
+## Prerequisites
 
-- 💬 Ask me about **anything**
+To run this project, you will need:
 
-- 📫 How to reach me **zyq4ka@gmail.com**
-  
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ZdravkoIvanovBG&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ZdravkoIvanovBG&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZdravkoIvanovBG&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- Python 3.10+
+- PostgreSQL for the database.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+## Setup Guide
+
+### Step 1: Clone the Repository
+
+First, clone the repository to your machine:
+
+```sh
+git clone <repository-url>
+```
+
+### Step 2: Navigate to the project directory 
+
+```sh
+cd <repository-directory>
+```
+
+### Step 3: Configure Environment Variables
+
+You need to set up the environment variables to run the project. 
+A `.env.template` file is included in the repository to help you through the process.
+
+1. Copy the `.env.template` file:
+    ```sh
+    cp .env.template .env
+    ```
+
+2. Edit the `.env` file and fill in the required values, such as:
+   - `SECRET_KEY`: A secret key for Django.
+   - Database connection settings - `DB_NAME`, `DB_USER`, `DB_PASSWORD`, `HOST`, `PORT`.
+   - `DEBUG`: Set to True for development, False for production.
+   - `ALLOWED_HOSTS`: Add your allowed hosts.
+   - `CSRF_TRUSTED_ORIGINS`: Add your allowed hosts with http/https://
+   - `MAILJET_API_KEY`, `MAILJET_SECRET_KEY`: Test
+
+
+### Step 4: Install Dependencies
+
+Use Pycharm Terminal to Install Dependencies:
+```sh
+pip install -r requirements.txt
+```
+
+### Step 5: Set Up the Database
+
+Ensure `PostgreSQL` is running and set up your database using the credentials provided in the `.env `file.
+
+Next, run the following commands to apply database migrations:
+```sh
+python manage.py migrate
+```
+
+### Step 6: Import data.json Fixture
+
+Run the following command to load the data into the database:
+
+```sh
+python manage.py loaddata shop/fixtures/data.json
+```
+
+### Step 7: Create a Superuser
+To access the admin panel, create a superuser account:
+
+```sh
+  python manage.py createsuperuser
+```
+
+Follow the prompts to set up the superuser.
+
+### Step 8: Run the Server
+Run the server with the following command:
+
+```shell
+python manage.py runserver
+```
+
+---
+
+### Running Tests
+Tests are located in the `tests/` directory.
+
+To run the tests:
+```shell
+python manage.py test
+```
