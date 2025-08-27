@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zdravko</h1>
 <h3 align="center">A passionate developer from Bulgaria</h3>
 
-- 🌱 I’m currently learning **Django, Python**
+- 🌱 Certified **Junior Python Developer**
 
 - 💬 Ask me about **anything**
 
