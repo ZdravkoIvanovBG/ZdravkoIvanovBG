@@ -3,7 +3,7 @@
 
 ### 🧑 About Me
 * 🎓 **Student** at Software University (SoftUni) focusing on Python & Web Development | Currently Studying Business Analysis at UNWE
-* 🚀 **Currently building:** [City AI Planner](https://github.com/ZdravkovalanovBG/city-ai-planner)
+* 🚀 **Currently building:** [City AI Planner](https://github.com/ZdravkoIvanovBG/city-ai-planner)
 * ⚡ **Fun Fact:** I love video editing and watching a lot of TV Series
 
 ### 📚 Education
