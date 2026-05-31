@@ -1,5 +1,5 @@
-<h1">Hi 👋, I'm Zdravko</h1>
-<h3">A passionate developer from Bulgaria</h3>
+<h1>Hi 👋, I'm Zdravko</h1>
+<h3>A passionate developer from Bulgaria</h3>
 
 * 🎓 **Student** at Software University (SoftUni) focusing on Python & Web Development | Currently Studying Business Analysis at UNWE
 * 🚀 **Currently building:** [City AI Planner](https://github.com/ZdravkovalanovBG/city-ai-planner)
