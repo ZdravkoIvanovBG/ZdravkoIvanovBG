@@ -1,16 +1,17 @@
-<h1 align="center">Hi 👋, I'm Zdravko</h1>
-<h3 align="center">A passionate developer from Bulgaria</h3>
+<h1">Hi 👋, I'm Zdravko</h1>
+<h3">A passionate developer from Bulgaria</h3>
 
-- 🌱 Certified **Junior Python Developer**
+* 🎓 **Student** at Software University (SoftUni) focusing on Python & Web Development | Currently Studying Business Analysis at UNWE
+* 🚀 **Currently building:** [City AI Planner](https://github.com/ZdravkovalanovBG/city-ai-planner)
+* ⚡ **Fun Fact:** I love video editing and watching a lot of TV Series
 
-- 💬 Ask me about **anything**
+### 📚 Education
+- 🏛️ University of National and World Economy (2025-2029) - Bachelor of Business Data Analysis with Specialized Software
+- 💻 Software University (2022 - 2024) - Professional degree in Software Engineering (6.00/6.00)
+- 🎓 "Geo Milev" High School of Mathematics and Natural Sciences, Stara Zagora (2020 - 2025) - Mathematics and Computer Science
 
-- 📫 How to reach me **zyq4ka@gmail.com**
-  
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ZdravkoIvanovBG&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ZdravkoIvanovBG&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZdravkoIvanovBG&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Zdravko's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZdravkolvanovBG&show_icons=true&theme=tokyonight)
 
 # 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
