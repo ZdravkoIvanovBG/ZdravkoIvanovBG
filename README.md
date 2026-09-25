@@ -3,7 +3,7 @@
 
 ### 🧑 About Me
 * 🎓 **Student** at Software University (SoftUni) focusing on Python & Web Development | Currently Studying Business Analysis at UNWE
-* 🚀 **Currently building:** [Nexa]([https://github.com/ZdravkoIvanovBG/city-ai-planner](https://github.com/ZdravkoIvanovBG/Nexa))
+* 🚀 **Currently building:** [Nexa]([https://github.com/ZdravkoIvanovBG/Nexa])
 * ⚡ **Fun Fact:** I love video editing and watching a lot of TV Series
 
 ### 📚 Education
